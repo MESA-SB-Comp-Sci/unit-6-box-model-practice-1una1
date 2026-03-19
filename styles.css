@@ -1,4 +1,27 @@
+
 * {
     box-sizing: border-box;
 }
 
+h2 {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    padding: 50px;
+    border: 5px solid red;
+    margin: 50
+    px;
+}
+
+h1 {
+    border: 50px inset blue;
+    text-align: center;
+    color: white;
+}
+main {
+    background-color: lightblue;
+}
+
+body {
+    background-color: lightblue;
+}
